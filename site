@@ -1,1 +1,5 @@
 https://www.howtoforge.com/setting-up-an-openvpn-server-with-authentication-against-openldap-on-ubuntu-10.04-lts
+https://github.com/fusiondirectory/fusiondirectory/blob/master/contrib/openldap/slapd.conf
+https://github.com/stedolan/nd/blob/master/slapd.conf
+https://stavrovski.net/blog/how-to-install-and-set-up-openvpn-in-debian-7-wheezy  
+https://openvpn.net/index.php/open-source/documentation/howto.html
